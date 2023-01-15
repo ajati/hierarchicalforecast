@@ -144,3 +144,8 @@ Gemfile.lock
 _docs/
 sidebar.yml
 _proc/
+
+
+# logs
+*tfevents*
+examples/lightning_logs
